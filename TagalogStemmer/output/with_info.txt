@@ -1,0 +1,1 @@
+{'word': 'ngayon', 'root': 'gayon', 'prefix': [], 'infix': [], 'suffix': [], 'repeat': [], 'dupli': [], 'clean': ['ng']}
